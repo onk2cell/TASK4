@@ -1,0 +1,7 @@
+streamlit
+python-decouple
+PyPDF2
+langchain
+numpy
+scikit-learn
+openai
